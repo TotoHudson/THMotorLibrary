@@ -8,7 +8,7 @@
 -------------------------------------------------------------------------------------
 SINTAXIS PARA CREAR UN OBJETO TIPO THMotor:
 
-	THMotorL293 <Nombre>(pinINA , pinINB, pinEN);
+	THMotor <Nombre>(pinINA , pinINB, pinEN);
 
 	pinINA: pin del arduino al cual se encuentra conectado una entrada del puente H.
 	pinINB: pin del arduino al cual se encuentra conectado la otra entrada del puente H.
