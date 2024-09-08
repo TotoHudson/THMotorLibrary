@@ -27,5 +27,5 @@ Hace girar al motor para adelante o para atras en base al comando que recibe. Pu
 COMANDO: solo puede recibir tres comandos.
 		
 		FORWARD: El motor gira hacia adelante. 
-		BACWARD: El motor gira hacia atras. 
+		BACKWARD: El motor gira hacia atras. 
 		RELEASE: Libera el motor. 
